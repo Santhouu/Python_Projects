@@ -1,4 +1,4 @@
-# Operators 
+# Operators are 
 # Operator-Based Calculator
 
 
