@@ -1,4 +1,4 @@
-# Operators are the special 
+# Operators are the special symboles 
 # Operator-Based Calculator
 
 
